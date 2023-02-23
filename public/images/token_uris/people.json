@@ -1,0 +1,11 @@
+{
+    "name": "people",
+    "description": "people image",
+    "image": "https://github.com/htcarr3/stego-compute-files/raw/main/public/images/hashed/people.png",
+    "attributes": [
+        {
+            "trait_type": "people",
+            "value": 100
+        }
+    ]
+}

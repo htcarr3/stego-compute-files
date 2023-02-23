@@ -1,0 +1,11 @@
+{
+    "name": "car",
+    "description": "car image",
+    "image": "https://github.com/htcarr3/stego-compute-files/raw/main/public/images/hashed/car.png",
+    "attributes": [
+        {
+            "trait_type": "car",
+            "value": 100
+        }
+    ]
+}

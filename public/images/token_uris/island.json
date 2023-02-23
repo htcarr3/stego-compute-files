@@ -1,0 +1,11 @@
+{
+    "name": "island",
+    "description": "island image",
+    "image": "https://github.com/htcarr3/stego-compute-files/raw/main/public/images/hashed/island.png",
+    "attributes": [
+        {
+            "trait_type": "island",
+            "value": 100
+        }
+    ]
+}

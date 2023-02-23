@@ -1,0 +1,11 @@
+{
+    "name": "ship",
+    "description": "ship image",
+    "image": "https://github.com/htcarr3/stego-compute-files/raw/main/public/images/hashed/ship.png",
+    "attributes": [
+        {
+            "trait_type": "ship",
+            "value": 100
+        }
+    ]
+}

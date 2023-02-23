@@ -1,0 +1,11 @@
+{
+    "name": "forest",
+    "description": "forest image",
+    "image": "https://github.com/htcarr3/stego-compute-files/raw/main/public/images/hashed/forest.png",
+    "attributes": [
+        {
+            "trait_type": "forest",
+            "value": 100
+        }
+    ]
+}

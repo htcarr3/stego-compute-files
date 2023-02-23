@@ -1,0 +1,11 @@
+{
+    "name": "plane",
+    "description": "plane image",
+    "image": "https://github.com/htcarr3/stego-compute-files/raw/main/public/images/hashed/plane.png",
+    "attributes": [
+        {
+            "trait_type": "plane",
+            "value": 100
+        }
+    ]
+}
